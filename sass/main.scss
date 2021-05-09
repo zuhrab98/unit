@@ -1,0 +1,36 @@
+//Base
+@import "./base/vars";
+@import "./base/mixins";
+@import "./base/base";
+
+// Section
+@import "./section/header";
+@import "./section/footer";
+@import "./section/sectiom-functional";
+@import "./section/section-clients";
+@import "./section/section-cta";
+@import "./section/section-focus";
+@import "./section/section-price";
+@import "./section/section-tasks";
+// Blocks
+@import "./blocks/nav";
+@import "./blocks/nav-icon";
+@import "./blocks/button-raund";
+@import "./blocks/form";
+@import "./blocks/button";
+@import "./blocks/title";
+@import "./blocks/subtitle";
+@import "./blocks/card";
+@import "./blocks/package";
+@import "./blocks/button-outline";
+@import "./blocks/button-solid";
+@import "./blocks/slider";
+@import "./blocks/search";
+
+
+// Owcarousel theme
+@import "./owcarousel-clients-theme/vars";
+@import "./owcarousel-clients-theme/theme";
+
+//Media
+@import "./media/madia"
